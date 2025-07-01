@@ -44,6 +44,14 @@ You can install them using `pip`:
 
 The performance of both models is evaluated using metrics like accuracy, precision, and recall. The results are displayed in the notebook and the web app.
 
+- Results
+    - Train Accuracy: 94.607842
+    - Train Loss: 0.145441
+    - Test Accuracy: 96.338671
+    - Test Loss: 0.135210
+    - Valid Accuracy: 91.036415
+    - Valid Loss: 0.262556
+
 ## Contributing
 
 Contributions are welcome! Please feel free to open issues or submit pull requests.
